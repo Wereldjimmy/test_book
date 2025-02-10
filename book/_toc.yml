@@ -7,7 +7,6 @@ parts:
     - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb
-      sections:
       - file: some_content/file_to_be_added_to_toc.md
     - file: exercises
       sections:
